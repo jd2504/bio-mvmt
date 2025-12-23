@@ -1,0 +1,3 @@
+# movement detection
+
+A collection of functions and tools for detection of head movements, saccades/ocular movement, etc...
