@@ -7,7 +7,7 @@ except FileNotFoundError:
     long_description = "A collection of Python tools and functions for human movement detection."
 
 setup(
-    name="mvmt-detection",
+    name="bio-mvmt",
     version="0.0.1",
     author="joel deerwester",
     author_email="jdeerwester@gradcenter.cuny.edu",
